@@ -1,0 +1,13 @@
+name: scribejs
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/47f76546-3afe-4846-b83f-0b41b6ff189d
+description: Converter of RRSAgent IRC logs into minutes in markdown
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
